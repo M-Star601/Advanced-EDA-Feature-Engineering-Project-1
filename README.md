@@ -24,8 +24,7 @@ The objective is to understand the dataset, identify patterns and relationships,
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
-
+- Juypter Notebook
 ## 🔍 Exploratory Data Analysis
 
 The notebook covers:
